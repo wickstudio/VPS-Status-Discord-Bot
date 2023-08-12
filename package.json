@@ -1,0 +1,12 @@
+{
+    "name": "server-status-bto",
+    "version": "1.0.0",
+    "description": "A Discord bot to check status of your VPS server",
+    "main": "index.js",
+    "dependencies": {
+        "discord.js": "^12.5.3",
+        "ssh2": "^1.14.0"
+    },
+    "author": "Wick",
+    "license": "MIT"
+}

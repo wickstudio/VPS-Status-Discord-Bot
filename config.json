@@ -1,0 +1,11 @@
+{
+    "discordToken": "Bot_Token",
+    "server": {
+      "ip": "IP",
+      "port": 22,
+      "username": "Username",
+      "password": "Password"
+    },
+    "statusChannelId": "Channel_ID"
+  }
+  
